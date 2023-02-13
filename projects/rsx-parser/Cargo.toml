@@ -1,11 +1,10 @@
 [package]
-name = "rsx"
-publish = false
+name = "rsx-parser"
 version = "0.0.0"
 authors = ["Aster <192607617@qq.com>"]
 description = "..."
 repository = "https://github.com/oovm/rsx"
-documentation = "https://docs.rs/rsx"
+documentation = "https://docs.rs/rsx-parser"
 readme = "Readme.md"
 license = "MPL-2.0"
 edition = "2021"
